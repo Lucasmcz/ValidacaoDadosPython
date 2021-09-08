@@ -1,4 +1,4 @@
-import requests#Chamar API IMPORTANTE PRA KRL!!!
+import requests#Chamar API IMPORTANTE 
 class BuscaEndereco:
 
     def __init__(self,cep):
